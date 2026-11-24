@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+**/.env
+**/.adk/
+adk_multiagent_systems/movie_pitches/
+.DS_Store
